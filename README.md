@@ -15,7 +15,7 @@
 ## Live Demo
 
 Visit the deployed app here:  
-[https://studytrack-app-two.vercel.app/](https://studytrack-app-two.vercel.app/)
+[https://studytrack-apurv.vercel.app/](https://studytrack-apurv.vercel.app/)
 
 
 ## Tech Stack
