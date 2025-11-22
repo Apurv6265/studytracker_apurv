@@ -49,7 +49,7 @@ function Header({ theme, setTheme }) {
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://github.com/Karannn3011/studytrack-app"
+                    href="https://github.com/Apurv6265"
                   >
                     GitHub
                   </a>

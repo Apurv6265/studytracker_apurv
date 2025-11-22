@@ -137,7 +137,7 @@ export function Dialog4() {
         </p>
         <p className="text-center mt-3">
           Made by: <a target="_blank"
-                            rel="noopener noreferrer" href="https://github.com/Karannn3011">Karannn3011</a>
+                            rel="noopener noreferrer" href="https://github.com/Apurv6265">Apurv6265</a>
         </p>
       </div>
       <form method="dialog" className="modal-backdrop">
